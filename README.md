@@ -54,9 +54,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 Below are links to access the deployed video link and repository.
 
-Github Repository: https://github.com/bergannation/12_EmployeeTracker
+Github Repository: https://github.com/Csayegh123/EmployeeTrackerKUSayegh
 
-Deployed Video Link: https://drive.google.com/file/d/1Ku78B2f7yVrxJm0RC9dff0V0_Ta0FOc1/view
+Deployed Video Link: https://drive.google.com/file/d/1outkVQWwYGiTHqXwVK1siHr3jdTzOWN5/view?usp=sharing
 
 ## Mock-Up
 
@@ -98,6 +98,6 @@ Testing: no testing is required
 
 ## Questions
 
-Here is a link to my github for more information: [Github]: https://github.com/BerganNation
+Here is a link to my github for more information: [Github]: https://github.com/csayegh123
 
-You can reach me with any additional questions by email: BerganNation@gmail.com
+You can reach me with any additional questions by email: sayegh.topher@gmail.com
